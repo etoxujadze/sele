@@ -43,6 +43,7 @@ input {
     border-radius: 10px;
     border: 1px solid #F4B4B4;
     margin-top: 6px;
+    font-family: inter;
 }
 .btn_manual {
     border: none;
@@ -72,15 +73,16 @@ input::placeholder {
     width: 16px;
     height: 16px;
     border-radius: 10px;
-    right: 535px;
+    left: 800px;
     top: 335px;
+    
 }
 .eye1 {
     position: absolute;
     width: 16px;
     height: 16px;
     border-radius: 10px;
-    right: 535px;
+    left: 800px;
     top: 422px;
-    font-family: "inter";
+    
 }
