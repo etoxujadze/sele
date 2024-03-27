@@ -67,14 +67,20 @@ input::placeholder {
     line-height: 19.36px;
     color: #9E9E9E; 
     padding-left: 16px;
+
+}
+.eye {
+    position: relative;
 }
 .ima {
     position: absolute;
     width: 16px;
     height: 16px;
     border-radius: 10px;
-    left: 800px;
-    top: 335px;
+    right: 0;
+    top: 0;
+    margin-right: 8px;
+    margin-top: 20px;
     
 }
 .eye1 {
@@ -82,7 +88,9 @@ input::placeholder {
     width: 16px;
     height: 16px;
     border-radius: 10px;
-    left: 800px;
-    top: 422px;
+    right: 0;
+    top: 0;
+    margin-right: 8px;
+    margin-top: 20px;
     
 }
